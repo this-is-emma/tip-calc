@@ -1,0 +1,18 @@
+.form {
+    width: calc(100% - 800px);
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 10px;
+    font-size: 20px;
+    line-height: 2;
+}
+
+.results {
+    line-height: 1;
+}
+
+.label-person {
+    font-size: 10px;
+    color:green;
+}
